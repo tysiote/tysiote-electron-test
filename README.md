@@ -17,7 +17,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/tysiote-electron-test
+git clone https://github.com/tysiote/tysiote-electron-test
 # Go into the repository
 cd tysiote-electron-test
 # Install dependencies
