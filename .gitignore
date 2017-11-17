@@ -1,2 +1,4 @@
 # ignore build
 Tysiote*
+.idea/*
+.idea/vcs.xml
