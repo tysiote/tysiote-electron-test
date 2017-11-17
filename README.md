@@ -28,7 +28,7 @@ npm start
 
 ## To compile into .exe
 
-To compile code into executable application you need [Electron Packager](https://github.com/electron-userland/electron-packager. From your command line:
+To compile code into executable application you need [Electron Packager](https://github.com/electron-userland/electron-packager). From your command line:
 
 ```bash
 # for use in npm scripts
